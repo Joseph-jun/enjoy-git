@@ -17,7 +17,7 @@ public class Example {
 
     @RequestMapping("/")
     String home() {
-        return "Hello Git! -V.08 -master update  ---merge合并分支";
+        return "Hello Git! Github!";
     }
 
     public static void main(String[] args) {
