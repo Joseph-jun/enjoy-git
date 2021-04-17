@@ -5,4 +5,5 @@ package enjoy.git;
  * @date : 2021/3/5 15:13
  */
 public class A {
+  System.out.println("The sun");
 }
